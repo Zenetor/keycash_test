@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "keycashtest",
+  "private_key_id": "8a97756a55202546adde631bcd99892b0ce01f5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGPOSKNV+NIlyb\nCnDGvMJNy/WTyywHo/TpQMDG1w9rhUn8TLcWkKgJi5gBQdkMmdNRSEwQBFZIayEu\nDKR8oLLm2iClvQWGDFR0pKqkrI5e9eZ/LSrl9PkM0WyYOzMvL/c7P8iAw6fr6M1S\n1cZT5IpYIZO7YKpTBGuds1UFlu3D7N7a6l++nvtg89+v3u470fJgzFEk5d8aOiKB\nwXBH9nYeorPN/yCsVHbTdrx2Apc9VZvswvQqXFF1//oEJ23jeo6bMBI73fmo7iY2\nbDF7D4IJ1+lNxSt8ML0y2vQnxNBnTC899fSBYs6+BypYqU1WWXThwOhYv97imFT4\ni2GNB+UXAgMBAAECggEABiuvEX5H0yTWrRzOFeGaSsGmi0svu60m2nvhhE79c+Na\nQjhBGrq2AFYQDTn3f6TqJwWRGI6KAQcUqVJLbHW0G+t+SKpxmZKYrmjRxv54EAyn\neB33z+CoP/Xk43g0R6u+jmGV5Cwy9ezxNzrgSYw7ojKpXpPLuXnRv77tTpc8H3Ua\nFGtd5GSeWPtIB5hwARQntT1aKo/cSZTDinhaZGYkuWVixWoImXfGTuTtoSiKLcCK\nrbydYxxJrYfMJ9BIrbL5m7+83O7BLM+SKggskTRqTWTc+gtNLkpBlfiohmjv/vxj\nyf1KvrQUH/3q9crsHoC8KuBiYT/TkXrnA2SR4dgXAQKBgQDiPfMYdD0hLdrBdazj\nDVWSegYFh9aNdcQ6zdupIWXNtc5NtQvy4hFTILPGeKYvSlCpMReJq1QpnlYTafgo\nLV5m/kJUR1tXkhek4v4makJeLUwxKFBGjyUFrI1ANB9MkUoN79GVDOzUL4o66T6J\nJBBezgwMm7JkGX6HCqnNQwFMMQKBgQDgT/wCDNP0mkww8Nm/sntFn911yftihzcE\n6Z7krAT4x+/8VZYQPKmRSvOV2nQU1pFxcXfS8EPKP+LpqbC3aFl7GT77nLcTFb2J\nJ/fBmzgenWdH2B6nfK1dJKQ6mBssgSDnR/ufNFuFl0RYYaC8/XjweooItb+Stzjd\nM7S+pySbxwKBgQCs+OQ1XBmolmBb7NZDudwk4zpbXCHDgbiHpQA+bRRilI+ohbUe\n+4x3W9dW9MNKAK1uzePLE7yDHVV9/lUGkrlMUTTxLqU9bKq7G/ln8XHQgx1vr/zA\nFY0eq3BLGA6eAa72vNYl+P3QtJAgvldbjsEdWreHpDpdochFAvgTwRjq4QKBgAMr\nXiYxRDVqkLUIUitRPEipj5mAdxrXSkG5g1M70v4o5Q0tsGceVE8HPhXZ9lXtCjUO\nI2FJn8uVx4EBssuEn+8LVkZ72mJcpkbv16JWrR5Rnwn21cgMDO8J+4AQciHY2Twr\nWjTPqpNipcaR6pGBC1pqgNTKrKBIEnedqWogNnY1AoGAQ+DsvyZuTTHo0ZzxBWnF\nB2xOUm+qQ0gmjhfjNrZ86DH1LH6eQr34pB4rnng/1QutjXJ1mdzIzQmGiJEUVbLC\nw+8EJb3BUpmr8w75vtjx2uaQqJxEZ2iV4Q14oS6vpuf6FOr000B0i2WDymoZxAt9\nMqVgaPd9isFxrO8sqmEfg04=\n-----END PRIVATE KEY-----\n",
+  "client_email": "keycash-gbq-test@keycashtest.iam.gserviceaccount.com",
+  "client_id": "100793107438255461546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/keycash-gbq-test%40keycashtest.iam.gserviceaccount.com"
+}
